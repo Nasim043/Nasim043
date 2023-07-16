@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my first portfolio website**
 
-- 🌱 I’m currently learning **Redux, Node and MongoDb**
+- 🌱 I’m currently learning **Next.js and Mongoose**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
