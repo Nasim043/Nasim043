@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasim043&label=Profile%20views&color=0e75b6&style=flat" alt="nasim043" /> </p>
 
-- 🔭 I’m currently working on **my first portfolio website**
+- 🔭 I’m currently working on **on a next.js project**
 
-- 🌱 I’m currently learning **Next.js and Mongoose**
+- 🌱 I’m currently learning **Typescript, Next.js and Mongoose**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
