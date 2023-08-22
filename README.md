@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **on a next.js project**
 
-- 🌱 I’m currently learning **Typescript, Next.js and Mongoose**
+- 🌱 I’m currently learning **Redux, Next.js and Mongoose**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
