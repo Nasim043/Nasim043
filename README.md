@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasim043&label=Profile%20views&color=0e75b6&style=flat" alt="nasim043" /> </p>
 
-- 🔭 I’m currently working on **on a Laravel project**
+- 🔭 I’m currently working on **a full stack Laravel project**
 
 - 🌱 I’m currently learning **TypeScript and Mongoose**
 
