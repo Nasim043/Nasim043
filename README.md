@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Abu Saleh Nasim</h1>
-<h3 align="center">A passionate junior web developer from Bangladesh</h3>
+<h3 align="center">A passionate web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasim043&label=Profile%20views&color=0e75b6&style=flat" alt="nasim043" /> </p>
 
-- 🔭 I’m currently working on **a full stack Laravel project**
+- 🔭 Currently working on a **Laravel API and React.js** project
 
-- 🌱 I’m currently learning **TypeScript and Mongoose**
+- 🌱 Currently Exploring **System Design**
 
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
+- 👯 Open to collaborations on full-stack **Laravel** or **API-based Laravel** projects.
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Laravel, React.js**
 
 - 📫 How to reach me **nasimcse16@gmail.com**
+  
+- I specialize in **Laravel and React.js** development, with a growing interest in *Node.js and backend architecture*.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
