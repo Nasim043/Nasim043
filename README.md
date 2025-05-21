@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasim043&label=Profile%20views&color=0e75b6&style=flat" alt="nasim043" /> </p>
 
+- 💼 **Software Engineer** at **WorldTech**, Dhaka
+- 
+- 🎓 **B.Sc. in Computer Science and Engineering** from **Chittagong University of Engineering and Technology (CUET)**
+
 - 🔭 Currently working on a **Laravel API and React.js** project
 
 - 🌱 Currently Exploring **System Design**
