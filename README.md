@@ -41,7 +41,8 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasim043&theme=github_dark" alt="Contribution Overview" />
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasim043&theme=github_dark" alt="Contribution Overview" /> -->
+  <img src="https://github-readme-stats-psi-gold-46.vercel.app/api/cards/profile-details?username=nasim043&theme=github_dark" alt="Contribution Overview" />
 </p>
 
 <p align="center">
