@@ -63,8 +63,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <!-- Profile Summary (full width) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasim043&theme=radical" alt="GitHub Profile Details" />
