@@ -8,7 +8,7 @@
 ---
 
 💼 **Software Engineer** at **WorldTech**, Dhaka  
-🎓 **B.Sc. in CSE** from **CUET (Chittagong University of Engineering and Technology)**
+🎓 **B.Sc. in CSE** from **CUET (Chittagong University of Engineering and Technology)**  
 🔭 Currently working on a **Laravel API + React.js** project  
 🌱 Exploring **System Design & Backend Architecture**  
 👯 Open to collaborating on **Full-stack Laravel** or **API-driven** projects  
