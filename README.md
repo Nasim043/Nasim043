@@ -7,13 +7,13 @@
 
 ---
 
-- 💼 **Software Engineer** at **WorldTech**, Dhaka  
-- 🎓 **B.Sc. in CSE** from **CUET (Chittagong University of Engineering and Technology)**
-- 🔭 Currently working on a **Laravel API + React.js** project  
-- 🌱 Exploring **System Design & Backend Architecture**  
-- 👯 Open to collaborating on **Full-stack Laravel** or **API-driven** projects  
-- 💬 Ask me about **Laravel** and **React.js**  
-- 📫 Reach me at **<nasimcse16@gmail.com>**
+💼 **Software Engineer** at **WorldTech**, Dhaka  
+🎓 **B.Sc. in CSE** from **CUET (Chittagong University of Engineering and Technology)**
+🔭 Currently working on a **Laravel API + React.js** project  
+🌱 Exploring **System Design & Backend Architecture**  
+👯 Open to collaborating on **Full-stack Laravel** or **API-driven** projects  
+💬 Ask me about **Laravel** and **React.js**  
+📫 Reach me at **<nasimcse16@gmail.com>**
 
 ---
 
